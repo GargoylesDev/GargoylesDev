@@ -22,7 +22,7 @@ Right now, I'm expanding into mobile development by learning Flutter, with the g
   <summary>
     <h3>📖 My Coding Journey</h3>
   </summary>
-  I started my coding journey as a student curious about how things work behind the screen — websites, apps, design. I       began with HTML and CSS, learning to turn ideas into real, working interfaces, then picked up Python to understand         programming fundamentals beyond the browser.
-  Along the way, I started using Figma to plan and design projects before writing a single line of code — treating design    and development as one connected process, not two separate steps.
-  Right now, I'm expanding into mobile development by learning Flutter, with the goal of building full apps end-to-end —     from idea, to design, to a working product on someone's phone.
+  I started my coding journey as a student curious about how things work behind the screen such as: websites, apps,          design. I began with HTML and CSS, learning to turn ideas into real, working interfaces, then picked up Python to          understand programming fundamentals beyond the browser.
+  Along the way, I started using Figma to plan and design projects before writing a single line of code treating design      and development as one connected process, not two separate steps.
+  Right now, I'm expanding into mobile development by learning Flutter, with the goal of building full apps end-to-end       from idea, to design, to a working product on someone's phone.
 </details>
