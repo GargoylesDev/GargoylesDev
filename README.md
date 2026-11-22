@@ -12,7 +12,7 @@ Right now, I'm expanding into mobile development by learning Flutter, with the g
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,figma,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,mysql,python,figma,xd,flutter,dart,php,androidstudio,vscode)](https://skillicons.dev)
 
 ---
 
